@@ -1,9 +1,9 @@
 | | Biodata |
 | -------- | --- |
-| **Nama** |: Humam Fathurrahman |
-| **NIM** |: 312010389 |
-| **Kelas** |: TI.20.A2 |
-| **Mata Kuliah** |: Kriptografi |
+| **Nama** | Humam Fathurrahman |
+| **NIM** | 312010389 |
+| **Kelas** | TI.20.A2 |
+| **Mata Kuliah** | Kriptografi |
 
 # *Enkripsi* dan *Deskripsi* dengan **PLAYFAIR CIHPER**
 
